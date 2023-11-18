@@ -1,0 +1,5 @@
+#Comparing sample_MSAs_result.fasta (seq:4;l=116) => REF truth.fasta(seq:4;l=96)
+TruePos=407
+FalsePos=40
+FalseNeg=79
+totalRef=486
