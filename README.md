@@ -17,3 +17,12 @@ python cloak.py /path/to/your/msa_directory
 
 Running this command generates a file called msa_directory_result.fasta, which contains the filtered alignment. 
 The result fasta file is generated in the same location from which the python script is run. 
+
+Example: 
+
+The Example folder contains an example of CLOAK being used. The sample_MSAs folder in Examples contains 16 alignments derived from Muscle5. The sample_MSAs_result.fasta file contains the filtered alignment.
+
+MSA_scoring: 
+
+The files in this folder are used for scoring an alignment. In this case, we have scores sample_MSAs_result.fasta against truth.fasta and stored the result in score.txt
+The other files contain code that implement the scoring logic
