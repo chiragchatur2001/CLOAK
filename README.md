@@ -24,5 +24,5 @@ The Example folder contains an example of CLOAK being used. The sample_MSAs fold
 
 MSA_scoring: 
 
-The files in this folder are used for scoring an alignment. In this case, we have scores sample_MSAs_result.fasta against truth.fasta and stored the result in score.txt
+The files in this folder are used for scoring an alignment. In this case, we have scored sample_MSAs_result.fasta against truth.fasta and stored the result in score.txt
 The other files contain code that implement the scoring logic
