@@ -1,8 +1,9 @@
 /*
  * MSAscorer
  *
- *  Created on: 2 Nov 2017
- *      Author: Simon Whelan
+ *      Author: Chiragdeep Chatur 
+        Initial code provided by Simon Whelan, with subsequent modifications by Chiragdeep Chatur. 
+	Simon Whelan is not responsible for the current functionality or maintenance of this code.
  *      ---
  *	Method for comparing a test MSA to a reference MSA, that may contain only a subset of the testMSA sequence for each OTU
  */
